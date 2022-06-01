@@ -1,0 +1,13 @@
+ID
+Summary (Title)
+Description
+Actual Result
+Expected Result
+STR
+Reproducibility
+Severity
+Priority
+Symptom
+Workaround
+Attachments
+Comments
